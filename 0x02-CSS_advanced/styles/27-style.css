@@ -144,15 +144,15 @@ a:active {
     color: var(--nav-item-link-hover);
 }
 
-OBOBOB.visually-hidden {
-OBOBOB    display: none;
-OBOBOB}
+.visually-hidden {
+    display: none;
+}
 
 .card-category {
     color: var(--color-primary);
 }
 
-OBOBOB.card-services .card-title {
+.card-services .card-title {
     margin: 0;
 }
 
