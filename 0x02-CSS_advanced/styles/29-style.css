@@ -196,15 +196,15 @@ a:active {
 .card-services a {
     display: block;
     padding: 2rem;
-OAOAOA    background-color: var(--color-light-grey);
+    background-color: var(--color-light-grey);
 }
 
 .card-services a:hover {
     color: var(--color-white);
     background-color: var(--color-primary);
-OAOAOAOAOAOAOAOAOA    text-decoration: none;
+    text-decoration: none;
 }
-OAOAOA
+
 .card-testimonial {
     text-align: center;
 }
