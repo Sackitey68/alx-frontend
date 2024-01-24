@@ -71,16 +71,16 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: var(--font-weight-bold);
 }
 
-OBOBOBa:link {
+a:link {
     color: var(--text-color);
-OBOBOB    text-decoration: none;
+    text-decoration: none;
 }
-OBOBOBOBOBOB
-a:visited {
-OBOBOB    font-style: italic;
-OBOBOBOBOBOB}
 
-OBOBOBa:hover {
+a:visited {
+    font-style: italic;
+}
+
+a:hover {
     text-decoration: underline;
 }
 
@@ -92,14 +92,14 @@ a:active {
     float: right;
 }
 
-OBOBOB.nav {
-OBOBOB    margin: 0;
-OBOBOB    padding: 0;
-OBOBOB    list-style: none;
-OBOBOB    text-align: center;
-OBOBOB}
+.nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
 
-OBOBOB.nav .nav-item {
+.nav .nav-item {
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
@@ -108,11 +108,11 @@ a:active {
     margin: var(--nav-item-margin);
 }
 
-OBOBOB.nav .nav-link {
-OBOBOB    display: block;
-OBOBOBOBOBOB    padding: 0.5rem 1rem;
-OBOBOB}
-OBOBOB
+.nav .nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+
 .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
