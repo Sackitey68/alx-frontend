@@ -64,36 +64,36 @@
 *:after {
     box-sizing: border-box;
 }
-OBOBOBOBOBOBOBOBOB
-OBOBOBhtml {
+
+html {
     scroll-behavior: smooth;
-OBOBOBOBOBOBOBOBOBOBOBOB    font-size: 62.5%;
+    font-size: 62.5%;
 }
 
 body {
     color: var(--text-color);
-OBOBOB    font-family: var(--font-family-base);
+    font-family: var(--font-family-base);
     font-size: var(--font-size-medium);
     font-weight: var(--font-weight-regular);
     line-height: var(--line-height-base);
 }
-OBOBOBOBOBOB
-OBOBOBh1, h2, h3, h4, h5, h6 {
-OBOBOBOBOBOBOBOBOB    font-family: var(--font-family-title);
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
-OBOBOB}
+}
 
 a:link {
     color: var(--text-color);
     text-decoration: none;
-OBOBOB}
+}
 
-OBOBOBOBOBOBOBOBOBa:visited {
+a:visited {
     font-style: italic;
 }
-OBOBOBOBOBOB
+
 a:hover {
-OBOBOB    text-decoration: underline;
+    text-decoration: underline;
 }
 
 a:active {
@@ -256,11 +256,11 @@ ul.row {
     width: 960px;
     margin-left: auto;
     margin-right: auto;
-OBOBOBOBOBOB}
-OBOBOBOBOBOB
+}
+
 .footer {
-OBOBOB    padding: var(--footer-padding);
-OBOBOB}
+    padding: var(--footer-padding);
+}
 
 .footer-address {
     color: var(--text-color);
