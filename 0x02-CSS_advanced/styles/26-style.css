@@ -81,13 +81,13 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
-OBOBOB}
-OBOBOBOBOBOB
-OBOBOBa:link {
-    color: var(--text-color);
-OBOBOBOBOBOB    text-decoration: none;
 }
-OBOBOB
+
+a:link {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
 a:visited {
     font-style: italic;
 }
