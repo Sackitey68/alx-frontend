@@ -390,7 +390,7 @@
   }
   
   /* Section HERO
-[O      ============================= */
+      ============================= */
   
   .section-hero {
     position: relative;
@@ -607,12 +607,12 @@
   }
   
   .hero-article .section-body {
-OBOBOBOBOBOBOBOBOB    position: relative;
+    position: relative;
     padding: 7rem 0 0;
-OBOBOB    z-index: 2;
+    z-index: 2;
   }
   
-OBOBOB  .main-article {
+  .main-article {
     padding: 5rem 0;
   }
   
